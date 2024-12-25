@@ -8,8 +8,6 @@ import google.generativeai as genai
 
 cgitb.enable()
 
-print("Content-Type: text/html")
-print()
 
 # Ensure API key is correctly configured
 api_key = "Your Api Key Here"  # Replace with your actual API key
